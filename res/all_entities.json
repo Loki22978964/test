@@ -1,0 +1,104 @@
+{
+  "Students": [
+    {
+      "id": "d1316f5e-7cff-4733-b5ca-f9ac7d753475",
+      "Surname": "Nikolov",
+      "Name": "Mykola",
+      "Course": 1,
+      "StudentCard": "44586645",
+      "ArrivalCity": "Kyiv",
+      "HomeCity": "Lviv",
+      "Passport": "AB4567946"
+    },
+    {
+      "id": "f2b84a5c-1d3e-4a2f-a2b8-1c2f1a2b3c4d",
+      "Surname": "Petrenko",
+      "Name": "Anna",
+      "Course": 1,
+      "StudentCard": "55667788",
+      "ArrivalCity": "Odesa",
+      "HomeCity": "Kharkiv",
+      "Passport": "CD9876543"
+    },
+    {
+      "id": "a4d3b5f6-8c9e-4a2d-b7f1-3c4d5e6f7a8b",
+      "Surname": "Shevchenko",
+      "Name": "Ivan",
+      "Course": 1,
+      "StudentCard": "33445566",
+      "ArrivalCity": "Dnipro",
+      "HomeCity": "Poltava",
+      "Passport": "EF1234567"
+    },
+    {
+      "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5f",
+      "Surname": "Kravchenko",
+      "Name": "Olena",
+      "Course": 1,
+      "StudentCard": "77889900",
+      "ArrivalCity": "Kherson",
+      "HomeCity": "Zaporizhzhia",
+      "Passport": "GH2345678"
+    },
+    {
+      "id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+      "Surname": "Bondar",
+      "Name": "Dmytro",
+      "Course": 1,
+      "StudentCard": "11223344",
+      "ArrivalCity": "Vinnytsia",
+      "HomeCity": "Chernivtsi",
+      "Passport": "IJ3456789"
+    },
+    {
+      "id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7g",
+      "Surname": "Hrytsenko",
+      "Name": "Kateryna",
+      "Course": 1,
+      "StudentCard": "99887766",
+      "ArrivalCity": "Ivano-Frankivsk",
+      "HomeCity": "Ternopil",
+      "Passport": "KL4567890"
+    }
+  ],
+  "Acrobats": [
+    {
+      "id": "feb21b6c-c74c-452b-a4d1-9d762c659694",
+      "Name": "Olena",
+      "Surname": "Koval",
+      "AbilityToDance": false
+    },
+    {
+      "id": "7d4bd2c6-bcd6-40f3-95a1-ba7519c38ca2",
+      "Name": "Serhiy",
+      "Surname": "Bondar",
+      "AbilityToDance": true
+    },
+    {
+      "id": "c1a2b3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "Name": "Kateryna",
+      "Surname": "Hrytsenko",
+      "AbilityToDance": true
+    }
+  ],
+  "TaxiDrivers": [
+    {
+      "id": "d9a6ecac-c818-48c2-a879-7d0d1985571b",
+      "Name": "Oleg",
+      "Surname": "Melnyk",
+      "AbilityToDance": false
+    },
+    {
+      "id": "23475d68-c986-436a-bb71-9e313e9252ea",
+      "Name": "Andriy",
+      "Surname": "Kovalenko",
+      "AbilityToDance": false
+    },
+    {
+      "id": "b7c8d9e0-f1a2-4b3c-8d9e-0f1a2b3c4d5e",
+      "Name": "Iryna",
+      "Surname": "Moroz",
+      "AbilityToDance": true
+    }
+  ]
+}
